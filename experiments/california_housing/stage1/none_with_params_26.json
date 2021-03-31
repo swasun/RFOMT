@@ -1,0 +1,37 @@
+{
+    "experiment_configuration": null,
+    "experiment_configuration_path": "experiments",
+    "dataset_name": "california_housing",
+    "normalize_D": false,
+    "dataset_normalizer": "standard",
+    "forest_size": null,
+    "extracted_forest_size_samples": 5,
+    "extracted_forest_size_stop": 0.1,
+    "models_dir": "./models",
+    "dev_size": 0.2,
+    "test_size": 0.2,
+    "random_seed_number": 1,
+    "seeds": [
+        1,
+        2,
+        3
+    ],
+    "subsets_used": "train,dev",
+    "normalize_weights": false,
+    "verbose": false,
+    "skip_best_hyperparams": false,
+    "save_experiment_configuration": [
+        "1",
+        "none_with_params"
+    ],
+    "job_number": -1,
+    "extraction_strategy": "none",
+    "extracted_forest_size": [
+        16,
+        33,
+        50,
+        66,
+        83
+    ],
+    "experiment_id": 26
+}

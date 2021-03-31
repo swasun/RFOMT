@@ -1,0 +1,28 @@
+{
+    "scorer": "neg_mean_squared_error",
+    "best_score_train": -13.33228274304088,
+    "best_score_test": -13.650326577972058,
+    "best_parameters": {
+        "max_features": "auto",
+        "min_samples_leaf": 1,
+        "max_depth": 20,
+        "n_estimators": 1000
+    },
+    "random_seed": [
+        1812,
+        1844,
+        1376,
+        383,
+        310,
+        1620,
+        54,
+        1502,
+        324,
+        1536,
+        1202,
+        1069,
+        645,
+        1706,
+        423
+    ]
+}

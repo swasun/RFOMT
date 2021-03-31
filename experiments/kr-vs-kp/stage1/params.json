@@ -1,0 +1,28 @@
+{
+    "scorer": "accuracy",
+    "best_score_train": 0.983953033268102,
+    "best_score_test": 0.9876041666666666,
+    "best_parameters": {
+        "max_features": "auto",
+        "min_samples_leaf": 1,
+        "n_estimators": 1000,
+        "max_depth": 20
+    },
+    "random_seed": [
+        1866,
+        275,
+        937,
+        1981,
+        623,
+        1487,
+        779,
+        221,
+        459,
+        69,
+        653,
+        1107,
+        628,
+        1137,
+        1971
+    ]
+}
