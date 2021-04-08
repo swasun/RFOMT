@@ -1,4 +1,4 @@
-Code for the paper "Pruning Random Forest with Orthogonal Matching Trees" (Giffon et al., 2020, CAP).
+Code for the paper "Pruning Random Forest with Orthogonal Matching Trees" (Giffon et al., 2020, CAP) [link to the paper](https://hal.archives-ouvertes.fr/hal-02534421/document).
 
 Install project
 --------------
@@ -6,11 +6,3 @@ Install project
 First install the project pacakge:
 
 	pip install -r requirements.txt
-
-Then create a file `.env` by copying the file `.env.example`:
-	
-	cp .env.example .env
-	
-Then you must set the project directory in the `.env` file :
- 
-	project_dir = "path/to/your/project/directory"	
